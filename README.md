@@ -1,7 +1,7 @@
 
 # Text-Summarizer-Flask-Deployment
-
-![Alt Text](https://github.com/DheerajKumar97/Text-Summarizer-Flask-Deployment/blob/master/cover.png)
+<br>
+![Alt Text][(https://github.com/aanand18/Text-Summarizer/tree/master/Screenshots)]
 <br>
 
 # Goal
