@@ -1,9 +1,15 @@
 
 # Text-Summarizer-Flask-Deployment
-<br>
+
 ![summarizer](https://user-images.githubusercontent.com/50799286/169695479-53c6883e-af9e-437f-b406-57864cb41421.png)
-<br>
+
+
+
+
+
+
 ![Summarized](https://user-images.githubusercontent.com/50799286/169695463-28f82415-423c-4bfd-8e84-e9b20fdc59cb.png)
+
 
 # Goal
 
